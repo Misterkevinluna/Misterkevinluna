@@ -58,7 +58,7 @@ Me interesa participar en proyectos con alto nivel de innovación, que represent
 
 
 #### *Link de paginas hechas con React*
-- [App de venta de guitarras con JavaScript]([v2-ventasguitarla-react.netlify.app](https://v2-ventasguitarla-react.netlify.app/).
+- [App de venta de guitarras con JavaScript](https://v2-ventasguitarla-react.netlify.app/).
 
 ---
 
