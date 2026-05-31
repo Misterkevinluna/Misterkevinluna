@@ -55,6 +55,10 @@ Me interesa participar en proyectos con alto nivel de innovación, que represent
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
+
+#### *Link de paginas hechas con React*
+- [App de venta de guitarras con JavaScript](v2-ventasguitarla-react.netlify.app)
+
 ---
 
 ## 🏢 Experiencia Laboral
