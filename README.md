@@ -59,7 +59,11 @@ Me interesa participar en proyectos con alto nivel de innovación, que represent
 
 #### *Link de paginas hechas con React*
 - [App de venta de guitarras con JavaScript](https://v2-ventasguitarla-react.netlify.app/).
-- [App de venta de guitarras con TypeScript](https://guitarla-ts-react.netlify.app/).
+- [App de venta de guitarras con TS](https://guitarla-ts-react.netlify.app/).
+- [App de calculadora de propinas con TS](https://calculadora-propinas-consumo-react.netlify.app/).
+- [App de calculadora de propinas con TS y useReducer](https://calculadorapropina-ts-react.netlify.app/).
+- [App contador de calorias con TS y useReducer](https://calorietracker-re-act.netlify.app/).
+- [App de control de gastos con TS y ContextApi](https://react-ts-control-gastos-contextapi.netlify.app/).
 
 ---
 
